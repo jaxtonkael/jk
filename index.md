@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Industrium
+description: "The Industrium"
+nav_order: 1
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/jaxtonkael/jk-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The Industrium
+{:no_toc}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome the the **Industrium**! As a self-taught developer, I have sifted the wide spaces of the interwebs for tutorials, documentation, and all of the articles in all of the places. I can say confidently that documentation plus hours of youtube can only do so much. Tutorials can show a way to perform a task. Perhaps those tutorials do not follow the best practices, or adhere to a style guide, but they can get you feeling like you've done something, like you've accomplished something. The good news is that you have accomplished something! The musical equivalent of a sing-along. Coding Karaoke. 
 
-### Markdown
+### Documentation is tough.
+{:no_toc}
+Many hours have been consumed just to get a thing to do a thing successfully, leaving no desire to elaborate on it further. Feeling content (or overwhelmed) you move on to complete the next goal, accomplish the next objective, or get the thing to do another thing. 
+ 
+Let's say that you're successful, and let's say the project has gained some traction with well-versed peers... That is great! I would even say that is the GOAL essentially. You may have been a good dev and left comments within the files explaining how you preformed your miracle... 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+But what about that new dev? What about the dev who is just new to the language itself?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaxtonkael/jk-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+After those hours preforming that coding karaoke, when you get the feeling that you too can make something grand, something spawned from your imagination, in the hopes that you too can give back to the community that you have just become a part of. Documentation is what fills in those gaps of knowledge. Paint can't teach the painter how to paint. But it can show them what is possible. 

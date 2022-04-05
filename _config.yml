@@ -1,2 +1,14 @@
 theme: jekyll-theme-tactile
-domain:
+domain: jaxtonkael.github.io
+url: https://my-site.github.io
+baseurl: /jk-site/
+
+collections:
+  tutorials:
+    output: true
+
+tutorials: 
+  order:
+    - tutorials.md
+    - ruby.md
+

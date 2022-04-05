@@ -12,24 +12,24 @@ These are some of the links I found most useful in my education.(This will const
 
 ### General
 
-- [Tutorialspoint][https://www.tutorialspoint.com/index.htm]
+- [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 
 ### Ruby
 
 The documentation is excellent. Do check out the "Getting Started" links they provide as they are awesome.
 
-- [Official Documentation Page][https://www.ruby-lang.org/en/documentation/]
+- [Official Documentation Page](https://www.ruby-lang.org/en/documentation/)
 
-- [Official API Documentation][https://docs.ruby-lang.org/en/]
+- [Official API Documentation](https://docs.ruby-lang.org/en/)
 
 So pretty.
 
-- [The Ruby Style Guide][https://rubystyle.guide/]
+- [The Ruby Style Guide](https://rubystyle.guide/)
 
-- [Tutorialspoint - Ruby][https://www.tutorialspoint.com/ruby/]
+- [Tutorialspoint - Ruby](https://www.tutorialspoint.com/ruby/)
 
-- [RubyGems][https://rubygems.org/]
+- [RubyGems](https://rubygems.org/)
 
-- [RSpec][http://rspec.info/]
+- [RSpec](http://rspec.info/)
 
-- [Awesome Ruby][https://ruby.libhunt.com/categories]
+- [Awesome Ruby](https://ruby.libhunt.com/categories)
